@@ -1,6 +1,6 @@
 # Walmart Sales Data Analysis
 
-![Banner](https://github.com/utkarshh35/WalmartSalesAnalysis/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner%20(2).png)
+![Banner](https://github.com/utkarshh35/Data-Analytics-Projects/blob/main/walmart_sales_data_analysis/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner%20(2).png)
 
 
 
